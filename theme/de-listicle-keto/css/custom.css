@@ -1,0 +1,123 @@
+/* .block--hero {
+    background:#225ebf;
+}
+
+.product__rating .rating-item .value {
+    background: #00c49a;
+}
+
+.product--top-rated {
+    border-top: 7px solid #00c49a;
+}
+
+.block--hero .bottom-text .date strong {
+    color: #fdcb00;
+}
+
+.product__price .price-label {
+    color: #00c49a;
+}
+
+.top-product {
+    border-top: 7px solid #00c49a;
+}
+
+.content-links ul li.is-active a, .content-links ul li:hover a, .top-product h2 strong, strong {
+    color: #00c49a;
+}
+
+.page-footer__top {
+    background: #002855;
+}
+
+
+.btn-primary {
+    background-color: #225ebf;
+    border-color: #225ebf;
+}
+
+.product__cta {
+    background: #225ebf;
+}
+
+.product__description ul li i {
+    color: #00c49a;
+} */
+.variation-color {
+    color: #5faee3;
+}
+.page-footer__menu .menu-list li a {
+    color: #5faee3;
+}
+
+.block--hero {
+    background: url(../img/header-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center 57%;
+    padding: 110px 0 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+@media (max-width:667px) {
+	.block--hero {
+		padding: 45px 0 20px
+	}
+}
+
+.block--hero:after {
+    background: rgba(0,0,0,.35);
+}
+/* 
+.block--hero .bottom-text .date strong {
+    color: #fd8a02;
+}
+
+.content-links ul li.is-active a, .content-links ul li:hover a, .page-header__menu ul li a:hover, .top-product h2 strong, a, a:hover, strong {
+    color: #fd8a02;
+}
+
+.btn-primary {
+    background: #fd8a02;
+}
+
+.btn-primary:hover {
+    background: #FFA53B;
+}
+
+.best-deal .section-title {
+
+    background: #044162;
+}
+
+.best-deal .featured-points .point .point-data h3 {
+    color: #044162;
+}
+
+.cta-box {
+    background: #044162;
+}
+
+.cta-box__btn {
+    background: #fd8a02;
+}
+
+.cta-box__btn:hover {
+    color: #fd8a02;
+}
+
+.page-footer__top {
+    background: #444;
+}
+
+.page-footer__bottom {
+    background: #333;
+}
+
+.product__description ul li i {
+    color: #FFA53B;
+}
+
+.product__rating .rating-item .status {
+    color: #FFA53B;
+} */
